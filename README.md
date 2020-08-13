@@ -7,6 +7,7 @@ an open license (CC BY 4.0).
 
 ## ORIGINAL README.txt
 
+```
 Files:
 	txt/ -- directory contains the text files
 	tags.tsv -- contains the tags, see format below
@@ -29,3 +30,4 @@ Categories:
 	20: wrong case (e.g. "drosophila melanogaster")
 	3: enumeration (e.g. "V. vulnificus CMCP6 and YJ016", will result in two mentions)
 	4: modifier (e.g. human in "human studies", mouse in "mouse gene", rat in "rat brain")
+```
