@@ -5,6 +5,8 @@ Mirror of version 1.1 of the LINNAEUS corpus (http://linnaeus.sourceforge.net/).
 This version is otherwise identical to the original 1.0 release but adds
 an open license (CC BY 4.0).
 
+The original release can found on sourceforge from https://sourceforge.net/projects/linnaeus/files/Corpora/ . 
+
 ## ORIGINAL README.txt
 
 ```
